@@ -1,2 +1,3 @@
 # DailyStudy
-Day Day up
+## Coding
+The algorithms and problems.
